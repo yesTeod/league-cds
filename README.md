@@ -12,5 +12,7 @@
 - champion respawn timers 
 - jungle respawn timers
 
+- drafting assistance 
+
 ## Finished
 - flash
