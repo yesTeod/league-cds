@@ -9,7 +9,6 @@
 - spell cds
 - ultimate cds
 - item cds
-- champion respawn timers 
 - jungle respawn timers
 
 - drafting assistance 
