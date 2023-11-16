@@ -1,5 +1,5 @@
 ## League of Legends spell cooldown counter
-- A counter to track League of Legends in-game cooldowns like flash etc. ( other spells are to be implemented )
+- A counter to track League of Legends in-game cooldowns like flash etc.
 
 ## In progress
 - the rest of the summoner spells 
